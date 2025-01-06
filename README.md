@@ -24,23 +24,33 @@ empowering students to manage their own academic data effectively and promptly.
 
 The choice to develop FastHub stemmed from research on common challenges in
 academic institutions, such as:
-
-  • Difficulty in managing student grades across semesters.
-  • Limited accessibility to personalized transcripts and academic data.
-  • Lack of automated solutions for dropping courses and calculating GPA.
-
+<br>
+&emsp;• Difficulty in managing student grades across semesters.
+&emsp;• Limited accessibility to personalized transcripts and academic data.
+&emsp;• Lack of automated solutions for dropping courses and calculating GPA.
+<br>
 The project was selected as it offered a practical application of core programming
 concepts like file handling, arrays, and user-defined functions in C, enabling us to explore
 how such systems are built and utilized in the real world.
 
-<h2>**Project Specification:**</h2>
+<h2>**Project Specification:**</h2> 
+<br>
 • **Programming Language:** C
+<br>
 • **Development Tools:** GCC Compiler, IDE: VS Code and Dev C++
+<br>
 • **Input:** Student details, course information, grades.
+<br>
 • **Output:** Transcripts, GPA/CGPA, dynamic course management.
+<br>
 • **Core Features:**
-  o Student registration and login.
-  o Admin functionalities for course addition and management.
-  o Transcript generation.
-  o GPA and CGPA calculation.
-  o Secure file-based data storage and retrieval.
+<br>
+&emsp;o Student registration and login.
+<br>
+&emsp;o Admin functionalities for course addition and management.
+<br>
+&emsp;o Transcript generation.
+<br>
+&emsp;o GPA and CGPA calculation.
+<br>
+&emsp;o Secure file-based data storage and retrieval.
