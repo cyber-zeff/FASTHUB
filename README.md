@@ -1,4 +1,4 @@
-<h1>**Introduction**</h1>
+<h1>Introduction</h1>
 The Student Management System (FastHub) is an application developed in C. It has been
 structured to strategically solve the critical problem by having very efficient and effective
 tools to manage academics in an institution of learning. The system thus has functions
@@ -9,7 +9,7 @@ concepts about user-defined functions, arrays, and conditional statements
 to bring about a practical solution in streamlining academic processes
 and increasing productivity among both students and administrators.
 
-<h1>**Aim and Motivation**</h1>
+<h1>Aim and Motivation</h1>
 The main objectives of the project were to develop an efficient, easy-to-use Student
 Management System meant to manage important academic operations. The automation of
 the system reduces exhaustive manual inputs about grades, transcriptions, and courses.
@@ -19,8 +19,8 @@ digital solutions in education. This system takes inspiration from a need for re
 accessibility, and streamlined tools that can ease one's administrative burdens while
 empowering students to manage their own academic data effectively and promptly.
 
-<h1>**Background**</h1>
-<h2>**Research and Project Selection**</h2>
+<h1>Background</h1>
+<h2>Research and Project Selection</h2>
 
 The choice to develop FastHub stemmed from research on common challenges in
 academic institutions, such as:
@@ -33,17 +33,17 @@ The project was selected as it offered a practical application of core programmi
 concepts like file handling, arrays, and user-defined functions in C, enabling us to explore
 how such systems are built and utilized in the real world.
 
-<h2>**Project Specification:**</h2> 
+<h2>Project Specification:</h2> 
 <br>
-• **Programming Language:** C
+• Programming Language: C
 <br>
-• **Development Tools:** GCC Compiler, IDE: VS Code and Dev C++
+• Development Tools: GCC Compiler, IDE: VS Code and Dev C++
 <br>
-• **Input:** Student details, course information, grades.
+• Input: Student details, course information, grades.
 <br>
-• **Output:** Transcripts, GPA/CGPA, dynamic course management.
+• Output: Transcripts, GPA/CGPA, dynamic course management.
 <br>
-• **Core Features:**
+• Core Features:
 <br>
 &emsp;o Student registration and login.
 <br>
