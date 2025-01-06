@@ -26,7 +26,9 @@ The choice to develop FastHub stemmed from research on common challenges in
 academic institutions, such as:
 <br>
 &emsp;• Difficulty in managing student grades across semesters.
+<br>
 &emsp;• Limited accessibility to personalized transcripts and academic data.
+<br>
 &emsp;• Lack of automated solutions for dropping courses and calculating GPA.
 <br>
 The project was selected as it offered a practical application of core programming
