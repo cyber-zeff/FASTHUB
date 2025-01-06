@@ -1,0 +1,241 @@
+name: PF, code: 001, semester: 1, program: CS, credit_hours: 3
+name: Calculus I, code: 002, semester: 1, program: CS, credit_hours: 3
+name: Introduction to Computing, code: 003, semester: 1, program: CS, credit_hours: 2
+name: English Composition, code: 004, semester: 1, program: CS, credit_hours: 2
+name: Basic Physics Lab, code: 005, semester: 1, program: CS, credit_hours: 1
+name: Object-Oriented Programming, code: 006, semester: 2, program: CS, credit_hours: 3
+name: Calculus II, code: 007, semester: 2, program: CS, credit_hours: 3
+name: Discrete Mathematics, code: 008, semester: 2, program: CS, credit_hours: 2
+name: Technical Writing, code: 009, semester: 2, program: CS, credit_hours: 2
+name: Electronics Lab, code: 010, semester: 2, program: CS, credit_hours: 1
+name: Data Structures, code: 101, semester: 3, program: CS, credit_hours: 3
+name: Computer Organization and Architecture, code: 102, semester: 3, program: CS, credit_hours: 3
+name: Theory of Automata, code: 103, semester: 3, program: CS, credit_hours: 2
+name: Probability and Statistics, code: 104, semester: 3, program: CS, credit_hours: 2
+name: Data Structures Lab, code: 105, semester: 3, program: CS, credit_hours: 1
+name: Algorithms, code: 106, semester: 4, program: CS, credit_hours: 3
+name: Operating Systems, code: 107, semester: 4, program: CS, credit_hours: 3
+name: Database Systems, code: 108, semester: 4, program: CS, credit_hours: 2
+name: Software Engineering, code: 109, semester: 4, program: CS, credit_hours: 2
+name: Operating Systems Lab, code: 110, semester: 4, program: CS, credit_hours: 1
+name: Artificial Intelligence, code: 111, semester: 5, program: CS, credit_hours: 3
+name: Computer Networks, code: 112, semester: 5, program: CS, credit_hours: 3
+name: Web Development, code: 113, semester: 5, program: CS, credit_hours: 2
+name: Human-Computer Interaction, code: 114, semester: 5, program: CS, credit_hours: 2
+name: Artificial Intelligence Lab, code: 115, semester: 5, program: CS, credit_hours: 1
+name: Computer Graphics, code: 116, semester: 6, program: CS, credit_hours: 3
+name: Software Project Management, code: 117, semester: 6, program: CS, credit_hours: 3
+name: Cybersecurity Fundamentals, code: 118, semester: 6, program: CS, credit_hours: 2
+name: Digital Logic Design, code: 119, semester: 6, program: CS, credit_hours: 2
+name: Computer Graphics Lab, code: 120, semester: 6, program: CS, credit_hours: 1
+name: Distributed Systems, code: 121, semester: 7, program: CS, credit_hours: 3
+name: Mobile Application Development, code: 122, semester: 7, program: CS, credit_hours: 3
+name: Cloud Computing, code: 123, semester: 7, program: CS, credit_hours: 2
+name: Final Year Project I, code: 124, semester: 7, program: CS, credit_hours: 2
+name: Mobile Application Development Lab, code: 125, semester: 7, program: CS, credit_hours: 1
+name: Advanced Topics in CS, code: 126, semester: 8, program: CS, credit_hours: 3
+name: Information Retrieval, code: 127, semester: 8, program: CS, credit_hours: 3
+name: Entrepreneurship in Computing, code: 128, semester: 8, program: CS, credit_hours: 2
+name: Final Year Project II, code: 129, semester: 8, program: CS, credit_hours: 2
+name: Cybersecurity Lab, code: 130, semester: 8, program: CS, credit_hours: 1
+name: PF, code: 001, semester: 1, program: SE, credit_hours: 3
+name: Calculus I, code: 002, semester: 1, program: SE, credit_hours: 3
+name: Fundamentals of Software Engineering, code: 011, semester: 1, program: SE, credit_hours: 2
+name: Communication Skills, code: 012, semester: 1, program: SE, credit_hours: 2
+name: Introduction to Engineering Lab, code: 013, semester: 1, program: SE, credit_hours: 1
+name: Object-Oriented Programming, code: 006, semester: 2, program: SE, credit_hours: 3
+name: Software Requirements Engineering, code: 014, semester: 2, program: SE, credit_hours: 3
+name: Linear Algebra, code: 015, semester: 2, program: SE, credit_hours: 2
+name: Technical Writing, code: 009, semester: 2, program: SE, credit_hours: 2
+name: Data Visualization Lab, code: 016, semester: 2, program: SE, credit_hours: 1
+name: Object-Oriented Programming, code: 201, semester: 3, program: SE, credit_hours: 3
+name: Data Structures and Algorithms, code: 202, semester: 3, program: SE, credit_hours: 3
+name: Discrete Structures, code: 203, semester: 3, program: SE, credit_hours: 2
+name: Probability and Statistics, code: 204, semester: 3, program: SE, credit_hours: 2
+name: Data Structures Lab, code: 205, semester: 3, program: SE, credit_hours: 1
+name: Software Design and Architecture, code: 206, semester: 4, program: SE, credit_hours: 3
+name: Database Management Systems, code: 207, semester: 4, program: SE, credit_hours: 3
+name: Operating Systems, code: 208, semester: 4, program: SE, credit_hours: 2
+name: Technical and Professional Communication, code: 209, semester: 4, program: SE, credit_hours: 2
+name: Database Systems Lab, code: 210, semester: 4, program: SE, credit_hours: 1
+name: Software Project Management, code: 211, semester: 5, program: SE, credit_hours: 3
+name: Human-Computer Interaction, code: 212, semester: 5, program: SE, credit_hours: 3
+name: Mobile Application Development, code: 213, semester: 5, program: SE, credit_hours: 2
+name: Quality Assurance and Testing, code: 214, semester: 5, program: SE, credit_hours: 2
+name: Software Engineering Lab, code: 215, semester: 5, program: SE, credit_hours: 1
+name: Web Engineering, code: 216, semester: 6, program: SE, credit_hours: 3
+name: Cybersecurity Principles, code: 217, semester: 6, program: SE, credit_hours: 3
+name: Artificial Intelligence, code: 218, semester: 6, program: SE, credit_hours: 2
+name: DevOps Practices, code: 219, semester: 6, program: SE, credit_hours: 2
+name: Web Engineering Lab, code: 220, semester: 6, program: SE, credit_hours: 1
+name: Distributed Systems, code: 221, semester: 7, program: SE, credit_hours: 3
+name: Cloud Computing, code: 222, semester: 7, program: SE, credit_hours: 3
+name: Emerging Trends in SE, code: 223, semester: 7, program: SE, credit_hours: 2
+name: Final Year Project I, code: 224, semester: 7, program: SE, credit_hours: 2
+name: Cloud Computing Lab, code: 225, semester: 7, program: SE, credit_hours: 1
+name: Advanced Software Engineering Practices, code: 226, semester: 8, program: SE, credit_hours: 3
+name: Entrepreneurship in IT, code: 227, semester: 8, program: SE, credit_hours: 3
+name: Software Maintenance and Reengineering, code: 228, semester: 8, program: SE, credit_hours: 2
+name: Final Year Project II, code: 229, semester: 8, program: SE, credit_hours: 2
+name: Advanced SE Lab, code: 230, semester: 8, program: SE, credit_hours: 1
+name: PF, code: 001, semester: 1, program: AI, credit_hours: 3
+name: Calculus I, code: 002, semester: 1, program: AI, credit_hours: 3
+name: Introduction to Artificial Intelligence, code: 017, semester: 1, program: AI, credit_hours: 2
+name: English Composition, code: 004, semester: 1, program: AI, credit_hours: 2
+name: Probability and Statistics, code: 018, semester: 1, program: AI, credit_hours: 1
+name: Data Structures, code: 019, semester: 2, program: AI, credit_hours: 3
+name: Linear Algebra, code: 020, semester: 2, program: AI, credit_hours: 3
+name: Machine Learning, code: 021, semester: 2, program: AI, credit_hours: 2
+name: Technical Writing, code: 009, semester: 2, program: AI, credit_hours: 2
+name: Python Programming Lab, code: 022, semester: 2, program: AI, credit_hours: 1
+name: Data Structures, code: 301, semester: 3, program: AI, credit_hours: 3
+name: Discrete Mathematics, code: 302, semester: 3, program: AI, credit_hours: 3
+name: Probability and Statistics, code: 303, semester: 3, program: AI, credit_hours: 2
+name: Object-Oriented Programming, code: 304, semester: 3, program: AI, credit_hours: 2
+name: Data Structures Lab, code: 305, semester: 3, program: AI, credit_hours: 1
+name: Machine Learning, code: 306, semester: 4, program: AI, credit_hours: 3
+name: Computer Networks, code: 307, semester: 4, program: AI, credit_hours: 3
+name: Algorithms, code: 308, semester: 4, program: AI, credit_hours: 2
+name: Software Engineering, code: 309, semester: 4, program: AI, credit_hours: 2
+name: Machine Learning Lab, code: 310, semester: 4, program: AI, credit_hours: 1
+name: Artificial Intelligence Fundamentals, code: 311, semester: 5, program: AI, credit_hours: 3
+name: Natural Language Processing, code: 312, semester: 5, program: AI, credit_hours: 3
+name: Data Mining, code: 313, semester: 5, program: AI, credit_hours: 2
+name: Deep Learning, code: 314, semester: 5, program: AI, credit_hours: 2
+name: Natural Language Processing Lab, code: 315, semester: 5, program: AI, credit_hours: 1
+name: Computer Vision, code: 316, semester: 6, program: AI, credit_hours: 3
+name: Cloud Computing, code: 317, semester: 6, program: AI, credit_hours: 3
+name: Ethics in AI, code: 318, semester: 6, program: AI, credit_hours: 2
+name: Reinforcement Learning, code: 319, semester: 6, program: AI, credit_hours: 2
+name: AI Lab, code: 320, semester: 6, program: AI, credit_hours: 1
+name: Advanced Machine Learning, code: 321, semester: 7, program: AI, credit_hours: 3
+name: Robotics, code: 322, semester: 7, program: AI, credit_hours: 3
+name: Big Data Analytics, code: 323, semester: 7, program: AI, credit_hours: 2
+name: Final Year Project I, code: 324, semester: 7, program: AI, credit_hours: 2
+name: Robotics Lab, code: 325, semester: 7, program: AI, credit_hours: 1
+name: Advanced Topics in AI, code: 326, semester: 8, program: AI, credit_hours: 3
+name: AI for Healthcare, code: 327, semester: 8, program: AI, credit_hours: 3
+name: AI in Business, code: 328, semester: 8, program: AI, credit_hours: 2
+name: Final Year Project II, code: 329, semester: 8, program: AI, credit_hours: 2
+name: AI and Ethics Lab, code: 330, semester: 8, program: AI, credit_hours: 1
+name: PF, code: 001, semester: 1, program: CY, credit_hours: 3
+name: Introduction to Cybersecurity, code: 023, semester: 1, program: CY, credit_hours: 3
+name: Networking Basics, code: 024, semester: 1, program: CY, credit_hours: 2
+name: Computer Organization, code: 025, semester: 1, program: CY, credit_hours: 2
+name: Internet Protocols Lab, code: 026, semester: 1, program: CY, credit_hours: 1
+name: Operating Systems, code: 027, semester: 2, program: CY, credit_hours: 3
+name: Cryptography, code: 028, semester: 2, program: CY, credit_hours: 3
+name: Risk Management, code: 029, semester: 2, program: CY, credit_hours: 2
+name: Ethical Hacking, code: 030, semester: 2, program: CY, credit_hours: 2
+name: Cybersecurity Lab, code: 031, semester: 2, program: CY, credit_hours: 1
+name: Data Structures, code: 301, semester: 3, program: CY, credit_hours: 3
+name: Discrete Mathematics, code: 302, semester: 3, program: CY, credit_hours: 3
+name: Probability and Statistics, code: 303, semester: 3, program: CY, credit_hours: 2
+name: Object-Oriented Programming, code: 304, semester: 3, program: CY, credit_hours: 2
+name: Data Structures Lab, code: 305, semester: 3, program: CY, credit_hours: 1
+name: Computer Networks, code: 306, semester: 4, program: CY, credit_hours: 3
+name: Cryptography, code: 307, semester: 4, program: CY, credit_hours: 3
+name: Operating Systems, code: 308, semester: 4, program: CY, credit_hours: 2
+name: Software Engineering, code: 309, semester: 4, program: CY, credit_hours: 2
+name: Cryptography Lab, code: 310, semester: 4, program: CY, credit_hours: 1
+name: Information Security, code: 311, semester: 5, program: CY, credit_hours: 3
+name: Cybersecurity Threats and Vulnerabilities, code: 312, semester: 5, program: CY, credit_hours: 3
+name: Ethical Hacking, code: 313, semester: 5, program: CY, credit_hours: 2
+name: Cloud Security, code: 314, semester: 5, program: CY, credit_hours: 2
+name: Ethical Hacking Lab, code: 315, semester: 5, program: CY, credit_hours: 1
+name: Digital Forensics, code: 316, semester: 6, program: CY, credit_hours: 3
+name: Malware Analysis, code: 317, semester: 6, program: CY, credit_hours: 3
+name: Network Security, code: 318, semester: 6, program: CY, credit_hours: 2
+name: Penetration Testing, code: 319, semester: 6, program: CY, credit_hours: 2
+name: Network Security Lab, code: 320, semester: 6, program: CY, credit_hours: 1
+name: Advanced Cryptography, code: 321, semester: 7, program: CY, credit_hours: 3
+name: Risk Management in Cybersecurity, code: 322, semester: 7, program: CY, credit_hours: 3
+name: Cybersecurity Policy and Compliance, code: 323, semester: 7, program: CY, credit_hours: 2
+name: Final Year Project I, code: 324, semester: 7, program: CY, credit_hours: 2
+name: Penetration Testing Lab, code: 325, semester: 7, program: CY, credit_hours: 1
+name: Advanced Network Security, code: 326, semester: 8, program: CY, credit_hours: 3
+name: Cybersecurity in IoT, code: 327, semester: 8, program: CY, credit_hours: 3
+name: Cybersecurity in Cloud Computing, code: 328, semester: 8, program: CY, credit_hours: 2
+name: Final Year Project II, code: 329, semester: 8, program: CY, credit_hours: 2
+name: Digital Forensics Lab, code: 330, semester: 8, program: CY, credit_hours: 1
+name: PF, code: 001, semester: 1, program: DS, credit_hours: 3
+name: Introduction to Data Science, code: 032, semester: 1, program: DS, credit_hours: 3
+name: Calculus I, code: 002, semester: 1, program: DS, credit_hours: 2
+name: Statistics for Data Science, code: 033, semester: 1, program: DS, credit_hours: 2
+name: Data Science Lab, code: 034, semester: 1, program: DS, credit_hours: 1
+name: Data Structures, code: 019, semester: 2, program: DS, credit_hours: 3
+name: Linear Algebra, code: 020, semester: 2, program: DS, credit_hours: 3
+name: Data Mining, code: 035, semester: 2, program: DS, credit_hours: 2
+name: Data Visualization, code: 036, semester: 2, program: DS, credit_hours: 2
+name: Python for Data Science Lab, code: 037, semester: 2, program: DS, credit_hours: 1
+name: Data Structures, code: 301, semester: 3, program: DS, credit_hours: 3
+name: Discrete Mathematics, code: 302, semester: 3, program: DS, credit_hours: 3
+name: Probability and Statistics, code: 303, semester: 3, program: DS, credit_hours: 2
+name: Object-Oriented Programming, code: 304, semester: 3, program: DS, credit_hours: 2
+name: Data Structures Lab, code: 305, semester: 3, program: DS, credit_hours: 1
+name: Machine Learning, code: 306, semester: 4, program: DS, credit_hours: 3
+name: Computer Networks, code: 307, semester: 4, program: DS, credit_hours: 3
+name: Database Systems, code: 308, semester: 4, program: DS, credit_hours: 2
+name: Data Science and Ethics, code: 309, semester: 4, program: DS, credit_hours: 2
+name: Machine Learning Lab, code: 310, semester: 4, program: DS, credit_hours: 1
+name: Data Mining, code: 311, semester: 5, program: DS, credit_hours: 3
+name: Artificial Intelligence, code: 312, semester: 5, program: DS, credit_hours: 3
+name: Big Data Analytics, code: 313, semester: 5, program: DS, credit_hours: 2
+name: Deep Learning, code: 314, semester: 5, program: DS, credit_hours: 2
+name: Data Mining Lab, code: 315, semester: 5, program: DS, credit_hours: 1
+name: Statistical Learning, code: 316, semester: 6, program: DS, credit_hours: 3
+name: Cloud Computing, code: 317, semester: 6, program: DS, credit_hours: 3
+name: Data Visualization, code: 318, semester: 6, program: DS, credit_hours: 2
+name: Natural Language Processing, code: 319, semester: 6, program: DS, credit_hours: 2
+name: Data Science Lab, code: 320, semester: 6, program: DS, credit_hours: 1
+name: Advanced Machine Learning, code: 321, semester: 7, program: DS, credit_hours: 3
+name: Robotics, code: 322, semester: 7, program: DS, credit_hours: 3
+name: AI in Data Science, code: 323, semester: 7, program: DS, credit_hours: 2
+name: Final Year Project I, code: 324, semester: 7, program: DS, credit_hours: 2
+name: Robotics Lab, code: 325, semester: 7, program: DS, credit_hours: 1
+name: Data Science for Healthcare, code: 326, semester: 8, program: DS, credit_hours: 3
+name: Advanced Data Analytics, code: 327, semester: 8, program: DS, credit_hours: 3
+name: AI and Big Data, code: 328, semester: 8, program: DS, credit_hours: 2
+name: Final Year Project II, code: 329, semester: 8, program: DS, credit_hours: 2
+name: Data Science Lab, code: 330, semester: 8, program: DS, credit_hours: 1
+name: PF, code: 001, semester: 1, program: CE, credit_hours: 3
+name: Engineering Mechanics, code: 038, semester: 1, program: CE, credit_hours: 3
+name: Fluid Mechanics, code: 039, semester: 1, program: CE, credit_hours: 2
+name: Engineering Drawing, code: 040, semester: 1, program: CE, credit_hours: 2
+name: Surveying Lab, code: 041, semester: 1, program: CE, credit_hours: 1
+name: Structural Analysis, code: 042, semester: 2, program: CE, credit_hours: 3
+name: Geotechnical Engineering, code: 043, semester: 2, program: CE, credit_hours: 3
+name: Transportation Engineering, code: 044, semester: 2, program: CE, credit_hours: 2
+name: Concrete Technology, code: 045, semester: 2, program: CE, credit_hours: 2
+name: Civil Engineering Lab, code: 046, semester: 2, program: CE, credit_hours: 1
+name: Structural Analysis I, code: 301, semester: 3, program: CE, credit_hours: 3
+name: Engineering Materials, code: 302, semester: 3, program: CE, credit_hours: 3
+name: Fluid Mechanics, code: 303, semester: 3, program: CE, credit_hours: 2
+name: Surveying, code: 304, semester: 3, program: CE, credit_hours: 2
+name: Engineering Mechanics Lab, code: 305, semester: 3, program: CE, credit_hours: 1
+name: Concrete Technology, code: 306, semester: 4, program: CE, credit_hours: 3
+name: Geotechnical Engineering, code: 307, semester: 4, program: CE, credit_hours: 3
+name: Structural Analysis II, code: 308, semester: 4, program: CE, credit_hours: 2
+name: Transportation Engineering, code: 309, semester: 4, program: CE, credit_hours: 2
+name: Geotechnical Engineering Lab, code: 310, semester: 4, program: CE, credit_hours: 1
+name: Environmental Engineering, code: 311, semester: 5, program: CE, credit_hours: 3
+name: Structural Design I, code: 312, semester: 5, program: CE, credit_hours: 3
+name: Water Resources Engineering, code: 313, semester: 5, program: CE, credit_hours: 2
+name: Construction Management, code: 314, semester: 5, program: CE, credit_hours: 2
+name: Environmental Engineering Lab, code: 315, semester: 5, program: CE, credit_hours: 1
+name: Structural Design II, code: 316, semester: 6, program: CE, credit_hours: 3
+name: Hydraulics and Hydrology, code: 317, semester: 6, program: CE, credit_hours: 3
+name: Building Construction, code: 318, semester: 6, program: CE, credit_hours: 2
+name: Surveying II, code: 319, semester: 6, program: CE, credit_hours: 2
+name: Hydraulics and Hydrology Lab, code: 320, semester: 6, program: CE, credit_hours: 1
+name: Advanced Structural Analysis, code: 321, semester: 7, program: CE, credit_hours: 3
+name: Earthquake Engineering, code: 322, semester: 7, program: CE, credit_hours: 3
+name: Project Management in Civil Engineering, code: 323, semester: 7, program: CE, credit_hours: 2
+name: Final Year Project I, code: 324, semester: 7, program: CE, credit_hours: 2
+name: Earthquake Engineering Lab, code: 325, semester: 7, program: CE, credit_hours: 1
+name: Advanced Concrete Technology, code: 326, semester: 8, program: CE, credit_hours: 3
+name: Advanced Water Resources Engineering, code: 327, semester: 8, program: CE, credit_hours: 3
+name: Sustainable Infrastructure, code: 328, semester: 8, program: CE, credit_hours: 2
+name: Final Year Project II, code: 329, semester: 8, program: CE, credit_hours: 2
+name: Sustainable Infrastructure Lab, code: 330, semester: 8, program: CE, credit_hours: 1
+name: ICT,code: ss1002,semester: 1,program: CY,credit_hours: 3
